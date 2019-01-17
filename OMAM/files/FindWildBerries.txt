@@ -1,0 +1,53 @@
+Find Wild Berries
+4
+As you are scrolling past the endless highways of California,
+you come across a bush of wild berries.
+"Funny how I am hungry right now," you thought.
+What do you do?
+1
+1
+1
+0.5
+4
+You Pick the Wild Berries
+Ignore Wild Berries
+Roast Wild Berries with Facts and Logic
+I only like Jam
+2
+You consume the delicious wild berries and your hunger goes away.
+Your strength increases!
+2
+You ignore the wild berries and continue on the highway.
+Nothing happens...
+4
+You ROAST the wild berries with FACTS and LOGIC.
+The berry bush lights on fire from the power of your ROAST,
+and a wildfire soon consumes the highway.
+Your strength decreases!
+6
+Just as you are dreaming about some delicious berry jam,
+you suddenly remember that you have a JAMIFIER-5000!
+You operate the device and delicious berry jam is produced.
+However, the JAMIFIER-5000 breaks after it spits out the jam.
+You consume the jam and you feel much stronger!
+Your strength GREATLY increases!
+5
+0
+0
+0
+0
+0
+0
+0
+-10
+0
+0
+0
+20
+0
+0
+0
+0
+50
+25
+JAMIFIER-5000

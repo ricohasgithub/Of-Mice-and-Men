@@ -1,0 +1,51 @@
+Trader Joes
+5
+After an exhausting day of walking, you decide
+to rest for a while under some trees.
+Suddenly, a man carrying a bag of goods walks over.
+"Howdy partner," said the man, "I'm trader Joe!"
+What do you do?
+1
+1
+1
+0.25
+4
+Buy a manual on car repair for $40
+Ignore Trader Joe
+Rob Trader Joe
+NULL
+3
+You buy a book labelled "THE MECHANIC'S BIBLE".
+You lose $40!
+Yor intelligence increases!
+2
+You ignore Trader Joe and continue on the highway.
+Nothing happens...
+6
+You rob Trade Joe!
+"You jerk!" shouts Trader Joe as you run away.
+You feel cursed by his shout!
+Your karma GREATLY decreases!
+Looking through his bag, you find some cans of soup.
+Your strength GREATLY increases!
+0
+0
+15
+0
+-40
+0
+0
+0
+0
+20
+0
+-30
+0
+0
+0
+0
+0
+50
+0
+40
+NULL

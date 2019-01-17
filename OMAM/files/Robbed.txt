@@ -1,0 +1,56 @@
+Robbery!
+5
+After a winding day of walking, you decide to rest for a bit.
+Suddenly a bunch of THIEVES & CROOKS jumped out of nowhere!
+Their leader walks in front of you and says, "I, the great NORMAN
+GRUM, demands that you hand over $50!"
+This sucks! What do you do?
+0
+0
+0
+0.75
+4
+Give them what they want
+Run Away
+"Norman Grum, more like Norman DUMB"
+Fight back
+2
+You hand over your money and the THIEVES & CROOKS leave you alone.
+You lose $50!
+3
+You run away, but the THIEVES & CROOKS start throwing ROCKS
+at you! You were hit several times.
+Your strength decreases!
+7
+You attempt the roast the great NORMAN GRUM.
+"Fool. I am immune to you mortal's roasts," said NORMAN.
+Uh oh.
+NORMAN GRUM punches you, and the THIEVES & CROOKS leave
+with $100!
+You lose $100!
+Your strength GREATLY decreases!
+4
+You suddenly remember that you have a PISTOL in your pocket.
+You quickly swing out your PISTOL and shoot at the attackers.
+The THIEVES & CROOKS escape!
+Your strength increases!
+0
+0
+0
+-50
+-15
+0
+0
+0
+-25
+0
+0
+-100
+10
+0
+0
+0
+0
+40
+0
+PISTOL

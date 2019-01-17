@@ -1,0 +1,6 @@
+Work Rumor
+4
+While in town for a job, you hear that
+there is work in the town of *.
+It's about | days to get to *.
+Let's Go! (Press Space to Continue)

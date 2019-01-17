@@ -1,0 +1,44 @@
+Work!
+3
+When resting in a small town near the highway,
+you notice a poster that says "HELP WANTED!"
+What do you do?
+1
+1
+1
+0.3
+4
+Plow fields for $25
+Ignore work poster
+Help local hospital for $50
+Null
+2
+You find work plowing some fields for a local farm.
+You earn $25!
+2
+You ignore the work poster and continue on the highway.
+Nothing happens...
+2
+You find work assisting at a local hospital.
+Your earn $50!
+0
+0
+0
+0
+25
+0
+0
+0
+0
+0
+0
+0
+50
+0
+0
+0
+0
+0
+85
+0
+NULL

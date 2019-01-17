@@ -1,0 +1,44 @@
+Find Wild Soup
+4
+As you are scrolling past the endless highways of California,
+you come across a can of wild soup.
+"Funny how I am hungry right now," you thought.
+What do you do?
+1
+1
+1
+0.25
+4
+Drink Soup
+Ignore Soup
+Null
+Null
+3
+You decide to drink the soup.
+Delicious!
+Your strength GREATLY increases!
+2
+You ignore the soup and continue on the highway.
+Nothing happens...
+0
+0
+30
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+101
+101
+101
+NULL

@@ -1,0 +1,45 @@
+Shelter
+5
+Having been walking for an entire day, you
+decide to look for a place to rest.
+You find a rundown shelter on the side
+of the highway.
+What do you do?
+1
+1
+1
+0.3
+4
+Rest in shelter
+Ignore shelter
+Null
+Null
+3
+You decide to take a break and you enter the shelter.
+You sleep soundly through the night and feel much stronger.
+Your strength increases!
+2
+You ignore the shelter and continue on the highway.
+Nothing happens...
+0
+0
+10
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+101
+101
+101
+NULL

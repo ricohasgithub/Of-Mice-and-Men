@@ -1,0 +1,51 @@
+Blockade
+6
+There are many rivers in California despite having
+about a third of the state being either desert or
+mountain. So unsuprisingly, you find yourself crossing
+over a bridge. However, as you cross the bridge, you
+encounter a group of protestors blocking the path!
+What do you do?
+1
+1
+1
+0.4
+4
+Push through the blockade
+Bribe group
+Negotiate with the group
+Null
+3
+You try to push through the crowd of protestors.
+You succeed but someone steps on your toe!
+Your strength decreases!
+2
+You bribe the group of protestors to let you through.
+You lose $30!
+5
+You negotiate with the group of protestors leader to
+break apart the group.
+Your excellent speaking skills impresses the leader
+and he calls the group the disperse.
+Your karma increases!
+0
+-10
+0
+0
+0
+0
+0
+0
+-30
+0
+0
+20
+0
+0
+0
+0
+0
+20
+70
+50
+NULL

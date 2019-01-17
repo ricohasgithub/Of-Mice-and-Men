@@ -1,0 +1,48 @@
+Work!
+3
+When resting in a small town near the highway,
+you notice a poster that says "HELP WANTED!"
+What do you do?
+1
+1
+1
+0.3
+4
+Carry sand bags for $30
+Ignore work poster
+Fix tractors for $75
+Null
+5
+You find work carrying sandbags for a construction
+project. However, you hurt your back while working.
+Ouch!
+Your strength decreases!
+You earn $30!
+2
+You ignore the work poster and continue on the highway.
+Nothing happens...
+3
+You find a small job fixing a tractor at a local junkyard.
+With your vast knowledge, you are able to quickly fix the tractor!
+Your earn $75!
+0
+-10
+0
+0
+30
+0
+0
+0
+0
+0
+0
+0
+75
+0
+0
+0
+0
+0
+85
+0
+NULL

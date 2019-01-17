@@ -1,0 +1,58 @@
+A Familiar Place
+7
+After an exhausting day of walking, you decide to stop
+for to rest. However, you can't shake the ever strong feeling
+of deja vu. There's rolling, golden foothills, a path through
+among the sycamores... Are you sure that you haven't been here
+before? Suddenly, you remember that you had camped here before
+and had hid a can of DELICIOUS BEANS (Trademark) in the bushes.
+What do you do?
+1
+1
+1
+0.5
+4
+Search blindly in the bushes
+Just go to sleep
+I remember where the beans are!
+Use metal detector
+4
+While you were occupied with searching blindly in the bushes, 
+you fail to notice that a fox had been stalking you the entire
+time! The fox leeps at you and you become badly scratched.
+Your strength decreases!
+2
+You decided to just go to sleep.
+Nothing happens...
+4
+As if you had just been struck with lightning, you suddenly
+remember where the beans are! You easily find and retrieve
+the beans. Delicious!
+Your strength GREATLY increases!
+6
+Just as you are dreaming about some delicious DELICIOUS BEANS,
+(Trademark) you suddenly remember that you have a metal detector
+that you picked up somewhere. You find the jar of DELICIOUS BEANS
+(Trademark) easily and they are delicious!
+However, while detecting for the can of beans, your metal detector breaks.
+Your strength GREATLY increases!
+-10
+0
+0
+0
+0
+0
+0
+0
+20
+0
+0
+0
+20
+0
+0
+0
+0
+80
+30
+METAL DETECTOR

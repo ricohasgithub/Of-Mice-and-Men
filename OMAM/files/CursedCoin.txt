@@ -1,0 +1,52 @@
+Cursed Coin
+7
+While scouting out a sleeping spot,
+you come across a very large coin
+ingraved with the words "cursed coin."
+(Very Spooky)
+Turns out, you happen to be in an ancient
+burial site!
+What do you do?
+0
+0
+3
+0.25
+4
+Take Coin (Free money, duh!)
+Respect the Ancestors and return the coin
+Null
+Null
+6
+You decide to take the coin.
+Free money, duh!
+However, you feel cursed somehow.
+"Probably just placebo," you thought.
+You gain $60!
+Your karma GREATLY decreases!
+4
+You decide to not take any risks and return the coin.
+"Very good child..." you hear something whisper.
+Creepy!
+Your karma GREATLY increases!
+0
+0
+0
+0
+-40
+60
+0
+0
+40
+0
+0
+0
+0
+0
+0
+0
+0
+0
+101
+101
+101
+NULL

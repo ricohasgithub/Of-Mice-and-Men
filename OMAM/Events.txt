@@ -1,0 +1,14 @@
+12
+files/Robbed.txt
+files/FindWildBerries.txt
+files/AFamiliarPlace.txt
+files/Blockade.txt
+files/Shelter.txt
+files/TraderJoes.txt
+files/TraderJoes2.txt
+files/SoupTime.txt
+files/CursedCoin.txt
+files/WorkInTown.txt
+files/WorkInTown2.txt
+files/HurtAnimal.txt
+files/TraderJoes3.txt

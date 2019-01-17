@@ -1,0 +1,48 @@
+Hurt Animal
+4
+While walking on the highway, you spot
+something walking towards you.
+Turns out its a hurt elk!
+What do you do?
+1
+1
+1
+0.4
+4
+Help the elk
+Kill the elk
+Null
+Null
+5
+You decide to help the animal.
+You tend the elk's wounds and it becomes better.
+However, the elk accidently struck you with its antlers!
+Your karma GREATLY increases!
+Your strength decreases!
+4
+You decide to kill the elk and end its misery.
+The elk growns and falls to the ground.
+Your strength GREATLY increases!
+Your karma GREATLY decreases!
+0
+0
+0
+0
+40
+0
+30
+0
+-50
+0
+0
+0
+0
+0
+0
+0
+0
+0
+101
+101
+101
+NULL
